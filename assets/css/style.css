@@ -12601,3 +12601,7 @@ textarea.form-control {
   pointer-events: visibleFill;
   cursor: default;
 }
+
+.sizer {
+  width: 300px;
+}
