@@ -12598,9 +12598,8 @@ textarea.form-control {
   list-style: none;
 }
 
-.d-flex > li,
-.d-flex > div {
-  margin-right: 20px;
+.links-gap {
+  gap: 0 1rem;
 }
 
 .sizer {
