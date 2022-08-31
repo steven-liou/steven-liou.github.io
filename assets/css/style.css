@@ -12623,7 +12623,10 @@ textarea.form-control {
 }
 
 .project-image {
-  max-width: 300px;
+  object-fit: cover;
+  max-width: 350px;
+  max-height: 300px;
+  margin-bottom: 1rem;
 }
 
 .project-description {
