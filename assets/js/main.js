@@ -15,13 +15,13 @@ AOS.init({
     scrollProperty: 'scroll',
   });
 
-  var halfHeight = function () {
-    $('.js-halfheight').css('height', $(window).height() / 2);
+  var heroHeight = function () {
+    $('.js-heroheight').css('height', $(window).height() / 3);
     $(window).resize(function () {
-      $('.js-halfheight').css('height', $(window).height() / 2);
+      $('.js-heroheight').css('height', $(window).height() / 3);
     });
   };
-  halfHeight();
+  heroHeight();
 
   // loader
   var loader = function () {
