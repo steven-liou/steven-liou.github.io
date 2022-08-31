@@ -12633,3 +12633,7 @@ textarea.form-control {
   padding: 0 15px;
   color: #999 !important;
 }
+
+#profile-picture {
+  max-height: 400px;
+}
