@@ -12583,3 +12583,15 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+#intro-paragraph {
+  font-size: 0.8rem;
+}
+
+.icons {
+  list-style: none;
+}
+
+.d-flex > li {
+  margin-right: 20px;
+}
