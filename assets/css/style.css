@@ -12590,7 +12590,10 @@ textarea.form-control {
 }
 
 #intro-paragraph {
-  font-size: 0.8rem;
+  font-size: 1rem;
+  color: #999999;
+  text-align: center;
+  width: 80%;
 }
 
 .icons {
