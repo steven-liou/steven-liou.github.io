@@ -12592,8 +12592,6 @@ textarea.form-control {
 #intro-paragraph {
   font-size: 1rem;
   color: #999999;
-  text-align: center;
-  width: 80%;
 }
 
 .icons {
@@ -12615,4 +12613,8 @@ textarea.form-control {
 
 .grow:hover {
   transform: scale(1.1);
+}
+
+.icon-span {
+  line-height: 0.8rem;
 }
