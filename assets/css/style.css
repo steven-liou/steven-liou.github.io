@@ -11435,7 +11435,7 @@ h5,
 }
 .other-projects .desc h3:after {
   position: absolute;
-  bottom: -15px;
+  bottom: -10px;
   left: 0;
   right: 0;
   content: '';
@@ -12616,4 +12616,17 @@ textarea.form-control {
 
 .icon-span {
   line-height: 0.8rem;
+}
+
+.other-projects {
+  padding: 15px 0;
+}
+
+.project-image {
+  max-width: 300px;
+}
+
+.project-description {
+  padding: 0 15px;
+  color: #999 !important;
 }
