@@ -10510,6 +10510,10 @@ a.text-light:focus {
   color: #343a40 !important;
 }
 
+.text-gray {
+  color: #999 !important;
+}
+
 a.text-dark:hover,
 a.text-dark:focus {
   color: #121416 !important;
@@ -12594,9 +12598,9 @@ textarea.form-control {
   }
 }
 
-#intro-paragraph {
-  font-size: 1rem;
-  color: #999999;
+.intro-paragraph {
+  font-size: 1rem !important;
+  color: #999999 !important;
 }
 
 .icons {
