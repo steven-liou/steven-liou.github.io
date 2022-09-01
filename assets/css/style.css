@@ -12619,6 +12619,15 @@ textarea.form-control {
   transform: scale(1.1);
 }
 
+.grow-large {
+  transition: all 0.2s ease-in-out;
+}
+
+.grow-large:hover {
+  transform: scale(1.5);
+  margin: 0 5rem 5rem;
+}
+
 .icon-span {
   line-height: 0.8rem;
 }

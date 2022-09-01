@@ -16,9 +16,9 @@ AOS.init({
   });
 
   var heroHeight = function () {
-    $('.js-heroheight').css('height', $(window).height() / 1.5);
+    $('.js-heroheight').css('height', $(window).height() / 3);
     $(window).resize(function () {
-      $('.js-heroheight').css('height', $(window).height() / 1.5);
+      $('.js-heroheight').css('height', $(window).height() / 3);
     });
   };
   heroHeight();
