@@ -12642,3 +12642,7 @@ textarea.form-control {
 #profile-picture {
   max-height: 400px;
 }
+
+.contact-text {
+  font-size: 1rem;
+}
