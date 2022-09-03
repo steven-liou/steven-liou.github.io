@@ -10650,7 +10650,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999;
+  color: #666;
 }
 body.menu-show {
   overflow: hidden;
@@ -12601,7 +12601,7 @@ textarea.form-control {
 
 .intro-paragraph {
   font-size: 1rem !important;
-  color: #999999 !important;
+  color: #888 !important;
 }
 
 .icons {
