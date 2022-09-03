@@ -12657,6 +12657,12 @@ textarea.form-control {
   max-height: 400px;
 }
 
+@media (min-width: 576px) {
+  #profile-picture {
+    max-height: 300px;
+  }
+}
+
 .contact-text {
   font-size: 1rem;
 }
